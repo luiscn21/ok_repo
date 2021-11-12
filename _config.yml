@@ -4,3 +4,6 @@ author: Luis Carreto
 name: Luis
 email: luis17erl@gmail.com
 description: "En este espacio encontrarán temas relacionados con las humanidades digitales" 
+
+# Build settings 
+remote_theme: jekyll/minima
