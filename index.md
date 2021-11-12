@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-Welcome to my new blog!
+Ésta es la página de inicio 
