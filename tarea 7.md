@@ -65,3 +65,5 @@ la causa [en `<num>`dos`</num>`], sin establecer un único principio del movimie
 `</body>`
 
 `</text>`
+
+`</TEI>`
