@@ -1,8 +1,8 @@
 ---
 layout: home
 ---
-#¡Bienvenidx! 
-en esta página encontrarás información acerca de qué es el texto digital y las humanidades digitales, así como algunos fragmentos atribuidos al filósofo presocrático Empédocles. Éstos hablan sobre sus conceptos fundamentales *Amistad* y *Odio*, así como de las cuatro raices y la estructura del ciclo cósmico.  
+# ¡Bienvenidx! 
+En esta página encontrarás información acerca de qué es el texto digital y las humanidades digitales, así como algunos fragmentos atribuidos al filósofo presocrático Empédocles. Éstos hablan sobre sus conceptos fundamentales *Amistad* y *Odio*, así como de *las cuatro raices* y *la estructura del ciclo cósmico*.  
 
 `<?xml version="1.0" encoding="UTF-8"?>`
 `<?xml-model href="mi_esquema.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>`
